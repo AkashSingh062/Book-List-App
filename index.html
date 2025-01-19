@@ -21,37 +21,43 @@
       </h1>
 
       <form id="book-form">
-        <div class="form-group">
+        <div class="form-group mt-2">
           <label for="title">Title</label>
           <input
             type="text"
-            class="form-control"
+            class="title-js form-control mt-1"
             id="title"
             placeholder="Enter book title"
             required
           />
         </div>
-        <div class="form-group">
-          <label for="aurthor">Author</label>
+        <div class="form-group mt-2">
+          <label for="author">Author</label>
           <input
             type="text"
-            class="form-control"
-            id="aurthor"
+            class="author-js form-control mt-1"
+            id="author"
             placeholder="Enter aurthor name"
             required
           />
         </div>
-        <div class="form-group">
+        <div class="form-group mt-2">
           <label for="isbn">ISBN</label>
           <input
             type="text"
-            class="form-control"
+            class="isbn-js form-control mt-1"
             id="isbn"
             placeholder="Enter ISBN number"
             required
           />
         </div>
-        <input type="submit" value="Add Book" class="btn btn-primary btn-block mt-3" />
+        <div class="d-grid">
+          <input
+            type="submit"
+            value="Add Book"
+            class="btn btn-outline-primary mt-3 rounded btn-js"
+          />
+        </div>
       </form>
       <table class="table table-striped mt-5">
         <thead>
@@ -62,7 +68,8 @@
             <th></th>
           </tr>
         </thead>
-        <tbody id="book-list"></tbody>
+        <tbody id="book-list" class="book-list-js">
+        </tbody>
       </table>
     </div>
     <script src="script.js"></script>
