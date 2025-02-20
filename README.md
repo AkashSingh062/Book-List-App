@@ -32,33 +32,33 @@ git clone https://github.com/AkashSingh062/Book-List-App.git
 ---
 ## 2️⃣ Navigate to the Project Directory
 
-cd Book-List-App
+** cd Book-List-App
 ---
 ## 3️⃣ Open the App
 
-Simply open index.html in your browser to start managing your books!
+** Simply open index.html in your browser to start managing your books!
 ---
 ### 📁 File Structure
 
-Book-List-App/
-│  
-├── 📝 index.html          # Main HTML file for the application  
-├── 🎨 bootstrap.min.css    # Bootstrap framework for responsive design  
-├── 📂 css/                 # Contains custom styles  
-│   └── style.css          # Additional custom styling  
-├── ⚡ script.js            # JavaScript file managing app logic  
-└── 📖 README.md           # Documentation for the project  
+** Book-List-App/
+** │  
+** ├── 📝 index.html          # Main HTML file for the application  
+** ├── 🎨 bootstrap.min.css    # Bootstrap framework for responsive design  
+** ├── 📂 css/                 # Contains custom styles  
+** │   └── style.css          # Additional custom styling  
+** ├── ⚡ script.js            # JavaScript file managing app logic  
+** └── 📖 README.md           # Documentation for the project  
 ---
 ### 🛠 Usage
 
-📌 Adding Books – Fill in the book title, author, and ISBN, then click “Add Book” to add it to your list.
-📌 Viewing Books – Books appear in a structured table format below the form.
-📌 Deleting Books – Click the “Close” button next to a book to remove it.
+** 📌 Adding Books – Fill in the book title, author, and ISBN, then click “Add Book” to add it to your list.
+** 📌 Viewing Books – Books appear in a structured table format below the form.
+** 📌 Deleting Books – Click the “Close” button next to a book to remove it.
 ---
 ### 🌟 Future Enhancements
 
-✨ Edit Book Details – Ability to update book information.
-✨ Search & Filter – Quickly find books from the list.
+** ✨ Edit Book Details – Ability to update book information.
+** ✨ Search & Filter – Quickly find books from the list.
 ✨ Export & Import – Save and restore book collections easily.
 ---
 ## 👨‍💻 Developed By
@@ -67,6 +67,6 @@ Book-List-App/
 ---
 ## 📜 License
 
-🔓 This project is licensed under the MIT License.
+** 🔓 This project is licensed under the MIT License.
 
-📚 Start building your personal book collection today! 📖🚀
+** 📚 Start building your personal book collection today! 📖🚀
