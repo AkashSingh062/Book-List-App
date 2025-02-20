@@ -27,7 +27,7 @@ The **Book List App** is a **simple yet powerful** web application that helps us
 
 ### 1️⃣ Clone the Repository  
 ```bash
-git clone https://github.com/yourusername/Book-List-App.git
+git clone https://github.com/AkashSingh062/Book-List-App.git
 ```
 2️⃣ Navigate to the Project Directory
 
