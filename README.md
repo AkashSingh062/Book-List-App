@@ -23,21 +23,22 @@ The **Book List App** is a **simple yet powerful** web application that helps us
 
 ---
 
-## 🚀 Getting Started  
+### 🚀 Getting Started  
 
-### 1️⃣ Clone the Repository  
+## 1️⃣ Clone the Repository  
 ```bash
 git clone https://github.com/AkashSingh062/Book-List-App.git
 ```
-##2️⃣ Navigate to the Project Directory
+---
+## 2️⃣ Navigate to the Project Directory
 
 cd Book-List-App
-
-##3️⃣ Open the App
+---
+## 3️⃣ Open the App
 
 Simply open index.html in your browser to start managing your books!
-
-###📁 File Structure
+---
+### 📁 File Structure
 
 Book-List-App/
 │  
@@ -47,24 +48,24 @@ Book-List-App/
 │   └── style.css          # Additional custom styling  
 ├── ⚡ script.js            # JavaScript file managing app logic  
 └── 📖 README.md           # Documentation for the project  
-
-###🛠 Usage
+---
+### 🛠 Usage
 
 📌 Adding Books – Fill in the book title, author, and ISBN, then click “Add Book” to add it to your list.
 📌 Viewing Books – Books appear in a structured table format below the form.
 📌 Deleting Books – Click the “Close” button next to a book to remove it.
-
-###🌟 Future Enhancements
+---
+### 🌟 Future Enhancements
 
 ✨ Edit Book Details – Ability to update book information.
 ✨ Search & Filter – Quickly find books from the list.
 ✨ Export & Import – Save and restore book collections easily.
+---
+## 👨‍💻 Developed By
 
-##👨‍💻 Developed By
-
-##💡 Created with passion by Akash
-
-##📜 License
+ 💡 Created with passion by Akash
+---
+## 📜 License
 
 🔓 This project is licensed under the MIT License.
 
