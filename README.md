@@ -52,21 +52,21 @@ Book-List-App/
 └── 📖 README.md           # Documentation for the project  
 
 ## 🛠 Usage
-	•	📌 ** Adding Books ** – Fill in the book title, author, and ISBN, then click “Add Book” to add it to your list.
-	•	📌 ** Viewing Books ** – Books appear in a structured table format below the form.
-	•	📌 ** Deleting Books ** – Click the “Close” button next to a book to remove it.
+	-•	📌 Adding Books – Fill in the book title, author, and ISBN, then click “Add Book” to add it to your list.
+	-•	📌 Viewing Books – Books appear in a structured table format below the form.
+	-•	📌 Deleting Books – Click the “Close” button next to a book to remove it.
 --
-🌟 Future Enhancements
+## 🌟 Future Enhancements
 	•	✨ Edit Book Details – Ability to update book information.
 	•	✨ Search & Filter – Quickly find books from the list.
 	•	✨ Export & Import – Save and restore book collections easily.
+--
+## 👨‍💻 Developed By
 
-👨‍💻 Developed By
+-💡 Created with passion by Akash
 
-💡 Created with passion by Akash
+## 📜 License
 
-📜 License
+-🔓 This project is licensed under the MIT License.
 
-🔓 This project is licensed under the MIT License.
-
-📚 Start building your personal book collection today! 📖🚀
+-📚 Start building your personal book collection today! 📖🚀
