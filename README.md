@@ -32,15 +32,17 @@ The **Book List App** is a **simple yet powerful** web application that helps us
 git clone https://github.com/AkashSingh062/Book-List-App.git
 ```
 
-2️⃣ Navigate to the Project Directory
+### 2️⃣ Navigate to the Project Directory
 
+```bash
 cd Book-List-App
+```
 
-3️⃣ Open the App
+### 3️⃣ Open the App
 
 Simply open index.html in your browser to start managing your books!
-
-📁 File Structure
+--
+## 📁 File Structure
 
 Book-List-App/
 │  
