@@ -51,11 +51,11 @@ Book-List-App/
 ├── ⚡ script.js            # JavaScript file managing app logic  
 └── 📖 README.md           # Documentation for the project  
 
-🛠 Usage
-	•	📌 Adding Books – Fill in the book title, author, and ISBN, then click “Add Book” to add it to your list.
-	•	📌 Viewing Books – Books appear in a structured table format below the form.
-	•	📌 Deleting Books – Click the “Close” button next to a book to remove it.
-
+## 🛠 Usage
+	•	📌 ** Adding Books ** – Fill in the book title, author, and ISBN, then click “Add Book” to add it to your list.
+	•	📌 ** Viewing Books ** – Books appear in a structured table format below the form.
+	•	📌 ** Deleting Books ** – Click the “Close” button next to a book to remove it.
+--
 🌟 Future Enhancements
 	•	✨ Edit Book Details – Ability to update book information.
 	•	✨ Search & Filter – Quickly find books from the list.
